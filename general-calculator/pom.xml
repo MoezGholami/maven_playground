@@ -14,5 +14,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>arithmetic-calculator</module>
+        <module>polynomial-calculator</module>
     </modules>
 </project>

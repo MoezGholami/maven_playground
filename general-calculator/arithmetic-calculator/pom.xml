@@ -15,7 +15,6 @@
     <modules>
         <module>adding-calculator</module>
         <module>multiplying-calculator</module>
-        <module>polynomial-calculator</module>
     </modules>
 
 

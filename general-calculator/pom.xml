@@ -15,5 +15,6 @@
     <modules>
         <module>arithmetic-calculator</module>
         <module>polynomial-calculator</module>
+        <module>string-calculator</module>
     </modules>
 </project>

@@ -22,7 +22,6 @@
 
     <modules>
         <module>general-calculator</module>
-        <module>general-calculator/string-calculator</module>
     </modules>
     <packaging>pom</packaging>
 
